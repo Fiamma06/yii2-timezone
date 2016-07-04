@@ -5,4 +5,4 @@ Set default timezone
 # Composer
 
 For using last version of plugin add to your composer.json next string:
-`"edvlerblog/yii2-adldap-module": "*"`
+`"fiamma06/yii2-timezone": "*"`
