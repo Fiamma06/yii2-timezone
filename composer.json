@@ -10,11 +10,11 @@
     "homepage": "https://github.com/fiamma06/yii2-timezone",
     "type": "yii2-extension",
     "require": {
-        "yiisoft/yii2": "2.0.*",
+        "yiisoft/yii2": "2.0.*"
     },
     "autoload": {
         "psr-4": {
-            "fiamma06\\yii2-timezone\\": "src"
+            "fiamma06\\timezone\\": "src"
         }
     }
 }

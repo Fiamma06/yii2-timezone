@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\components;
+namespace fiamma06\timezone;
 
 use yii\base\Component;
 
