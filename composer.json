@@ -10,6 +10,7 @@
     ],
     "homepage": "https://github.com/fiamma06/yii2-timezone",
     "type": "yii2-extension",
+    "license": "MIT",
     "require": {
         "yiisoft/yii2": "2.0.*"
     },
