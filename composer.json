@@ -1,6 +1,7 @@
 {
     "name": "fiamma06/yii2-timezone",
     "description": "Timezone plugin for Yii2; Depends geoip",
+    "keywords": ["yii2", "geoip", "timezone", "component"],
     "authors": [
         {
             "name": "Kistsen Aliaksandr",
